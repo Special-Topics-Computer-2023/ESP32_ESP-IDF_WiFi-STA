@@ -1,6 +1,9 @@
 # 64030161 Rachata
 
 ## Terminal output
+
+เชื่อมต่อ ESP32 กับ Access point
+
 ```css
 entry 0x40080698
 I (27) boot: ESP-IDF v4.4.5-dirty 2nd stage bootloader
