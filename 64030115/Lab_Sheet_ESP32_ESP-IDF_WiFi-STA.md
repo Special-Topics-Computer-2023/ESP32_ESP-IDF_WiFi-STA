@@ -166,3 +166,4 @@ void app_main(void)
 #define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
 
 ```
+![image](https://github.com/Prangpanwat/ESP32_ESP-IDF_WiFi-STA/assets/116150897/49de6b19-0bdc-4b2e-8068-25edc0c3acd8)
