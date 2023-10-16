@@ -1,5 +1,5 @@
 # 64030207 Sittinon
-- Repo :
+- Repo : https://github.com/Sittinon-Sawatdemongkol/ESP32_WIFI_STA
 ## Output
 ```
 rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
