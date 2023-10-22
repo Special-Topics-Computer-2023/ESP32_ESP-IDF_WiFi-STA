@@ -1,4 +1,4 @@
-# ใบงานการทดลอง ESP32_ESP-IDF_WiFi-STA
+![image](https://github.com/Fixckpx/ESP32_ESP-IDF_WiFi-STA/assets/115066186/5b6f98d1-7b12-4593-ba2a-cb1f49accee1)# ใบงานการทดลอง ESP32_ESP-IDF_WiFi-STA
 
 ## ขั้นตอนการทดลอง
 
@@ -166,3 +166,6 @@ void app_main(void)
 #define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
 
 ```
+
+
+![image](https://github.com/Fixckpx/ESP32_ESP-IDF_WiFi-STA/assets/115066186/d11e777a-7269-4d9d-869d-6bfac91a69e8)
