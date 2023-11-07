@@ -1,3 +1,6 @@
+# 64030213 Suthera
+repo https://github.com/Suthera213/esp_idf_wifi-STA.git
+
 # ใบงานการเชื่อมต่อ ESP32 กับ WiFi ในโหมด Station (STA)
 ในใบงานนี้ เราจะเรียนรู้การตั้งค่า ESP32 ในโหมด Station (STA) โดยใช้ ESP-IDF 
 นักศึกษาจะได้ทำความรู้จักกับ API ที่จำเป็นสำหรับการเชื่อมต่อ W-Fi รายละเอียดเกี่ยวกับไดรเวอร์ Wi-Fi 
