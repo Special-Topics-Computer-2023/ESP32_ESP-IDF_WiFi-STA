@@ -1,4 +1,4 @@
-## ส่งงาน repo https://github.com/suwithirunrat/esp32-wifi-sta.git
+# ส่งงาน repo https://github.com/suwithirunrat/esp32-wifi-sta.git
 
 # ใบงานการเชื่อมต่อ ESP32 กับ WiFi ในโหมด Station (STA)
 ในใบงานนี้ เราจะเรียนรู้การตั้งค่า ESP32 ในโหมด Station (STA) โดยใช้ ESP-IDF 
