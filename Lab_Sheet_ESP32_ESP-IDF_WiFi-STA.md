@@ -166,3 +166,17 @@ void app_main(void)
 #define EXAMPLE_ESP_WIFI_PASS      "___Wifi_password_"
 
 ```
+ส่งงาน
+
+repo:https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-STA
+
+terminal
+
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-STA/assets/110808862/b9b40841-2df7-4b35-a50c-05f09d74d1a5)
+
+Terminal output
+เชื่อมต่อ ESP32 กับ Access point
+
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-STA/assets/110808862/87e2b8ba-d309-40d2-92aa-d27d03513596)
+
+
